@@ -1,0 +1,11 @@
+title,description,domain,skills,career_area,difficulty
+AI Resume Analyzer,"Build an AI system that analyzes resumes and extracts skills, experience and job keywords.",AI & Data Science,"Python, NLP, pandas, machine learning",AI Engineer,Intermediate
+Smart Energy Consumption Predictor,"Predict household electricity consumption using historical readings and machine learning.",Energy & AI,"Python, pandas, regression, visualization",Data Scientist,Intermediate
+EV Charging Station Finder,"Create a recommendation system that suggests EV charging stations using location and vehicle requirements.",Electric Vehicle,"Python, APIs, data analysis, recommendation systems",EV Engineer,Intermediate
+Solar Power Generation Forecast,"Forecast solar power generation from weather and historical energy data.",Renewable Energy,"Python, forecasting, pandas, visualization",Power Systems,Advanced
+PLC Fault Detection Dashboard,"Develop a dashboard for monitoring PLC signals and identifying abnormal machine conditions.",Industrial Automation,"Python, Streamlit, PLC concepts, data analysis",Automation Engineer,Intermediate
+IoT Smart Home Monitor,"Monitor temperature, energy and device status through an IoT-style dashboard.",IoT & Automation,"Python, IoT, dashboards, data visualization",Automation Engineer,Beginner
+Student Performance Predictor,"Predict student performance from attendance, study time and assessment data.",Education & AI,"Python, pandas, classification, machine learning",Data Scientist,Beginner
+Fake News Text Classifier,"Classify news text as potentially misleading or reliable using NLP features.",NLP,"Python, NLP, TF-IDF, classification",ML Engineer,Intermediate
+Electric Load Anomaly Detector,"Detect unusual electrical load patterns and visualize anomalies.",Power Systems,"Python, anomaly detection, pandas, visualization",Power Systems,Advanced
+Personal Finance Recommendation App,"Recommend budgeting actions based on spending categories and user goals.",FinTech,"Python, pandas, recommendation systems, Streamlit",Software Engineer,Beginner
